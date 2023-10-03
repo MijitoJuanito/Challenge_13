@@ -40,9 +40,9 @@ Then
 
 ###Demonstration
 
-![Demo of E-Commerce Back End app]()
+![Demo of E-Commerce Back End app](/Assets/ECOM.jpg)
 
-[Demonstration Video]()
+[Demonstration Video](https://drive.google.com/file/d/1Z2RGnNE76uWwSPjo3Bbu8lv1p0JrWIX3/view)
 
 
 
